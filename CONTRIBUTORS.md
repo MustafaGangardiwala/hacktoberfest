@@ -1649,6 +1649,11 @@ Noida
 - Bio: Front End Developer
 - GitHub: [mbarighzaai](https://github.com/mbarighzaai)
 
+#### Name: [Mustafa Gangardiwala](https://github.com/MustafaGangardiwala)
+ - Place: Dahod, Gujarat, India
+ - Bio: Final year student, ML Enthusiast 
+ - GitHub: [Mustafa Gangardiwala](https://github.com/MustafaGangardiwala)
+
 #### Name: [NIKOLETT HEGEDÜS](https://github.com/henikolett)
 - Place: Debrecen, Hungary
 - Bio: I'm a Developer / Music geek / Nature enthusiast
